@@ -5,5 +5,5 @@ Step 1
 
 Step 2
       change directory using cd command like cd client and give npm install this one is frontend and i use tailwind css + vite engine
-      As Same as also for backend change directory using cd command like cd client and give npm install Thats also 
+      As Same as also for backend change directory using cd command like cd server and give npm install Thats also 
 
